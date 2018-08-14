@@ -1,4 +1,4 @@
-# v-feedback.js
+# v-feedback
 > Event driven feedback plugin for Vue.js
 
 ## What
@@ -7,11 +7,11 @@ Also, if the element detects "mouseleave" or "touchend",  it will be added '.is-
 
 ## Install
 ```
-npm install v-feedback -S
+npm install @pixelgram/v-feedback -S
 ```
 
 ## Quick Start
-```
+```js
 import Vue from 'vue'
 import Feedback from 'v-feedback'
 

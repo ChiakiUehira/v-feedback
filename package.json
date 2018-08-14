@@ -1,5 +1,5 @@
 {
-  "name": "v-feedback",
+  "name": "@pixelgram/v-feedback",
   "version": "1.0.0",
   "description": "Event driven feedback plugin for Vue.js",
   "main": "out/index.js",
